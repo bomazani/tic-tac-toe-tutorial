@@ -1,4 +1,5 @@
 {
+  "homepage": "https://bomazani.github.io/tic-tac-toe-tutorial",
   "name": "tic-tac-toe-tutorial",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +9,7 @@
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://bomazani.github.io/tic-tac-toe-tutorial",
+  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
